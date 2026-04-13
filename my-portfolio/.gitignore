@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.claude/
+CLAUDE.md
+AGENT.md
+Toka Mohsen Mohammed Resume (cloud devops).pdf
+
+
+
